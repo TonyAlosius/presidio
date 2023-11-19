@@ -10,7 +10,7 @@
             "img":"https://i.ibb.co/cxTNRcs/original-cc500c5ebdffb06c6777b6582c410546-2.jpg",
             "title":"Threadletics",
             "save":false,
-            "filter":["Following","Popular"],
+            "filter":["Following"],
             "category":["Discovery","Animation","Branding"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
@@ -25,7 +25,7 @@
             "img":"https://i.ibb.co/cLnstfy/original-1ae9ebdda18380dccbaf8c88f1778a20-3.png",
             "title":"Threadletics",
             "save":false,
-            "filter":["Following","Popular"],
+            "filter":["Following"],
             "category":["Illustration","Mobile","Print"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
@@ -40,7 +40,7 @@
             "img":"https://i.ibb.co/61zFLP0/original-1c204cd1bd69518c15d26d6fa84c3c99-3.jpg",
             "title":"Threadletics",
             "save":false,
-            "filter":["Following","Popular"],
+            "filter":["Following"],
             "category":["Product Design","Typograghy"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
