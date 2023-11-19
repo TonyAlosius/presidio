@@ -11,7 +11,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["Following"],
-            "category":["Discovery","Branding"],
+            "category":["Discovery","Branding","Print"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
@@ -26,7 +26,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["Following"],
-            "category":["Illustration","Print"],
+            "category":["Illustration","Print","Discovery"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
