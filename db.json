@@ -11,7 +11,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["Following"],
-            "category":["Discovery","Animation","Branding"],
+            "category":["Discovery","Branding"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
@@ -26,7 +26,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["Following"],
-            "category":["Illustration","Mobile","Print"],
+            "category":["Illustration","Print"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
@@ -55,7 +55,7 @@
             "img":"https://i.ibb.co/Z1Nwgqh/original-5bc2f7d35bb27f83fc12517c9fcb6cfb-2.jpg",
             "title":"Threadletics",
             "save":false,
-            "filter":["New & Noteworthy"],
+            "filter":["New & Noteworthy","Popular"],
             "category":["Web Desgin"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
@@ -71,7 +71,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["New & Noteworthy"],
-            "category":["Discovery","Animation","Branding"],
+            "category":["Discovery","Typograghy","Branding"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
@@ -86,7 +86,7 @@
             "title":"Threadletics",
             "save":false,
             "filter":["New & Noteworthy"],
-            "category":["Product Design","Typograghy"],
+            "category":["Product Design","Animation"],
             "tag":["Website","colorful"],
             "hexcode":["#ffffff","#ffffff00"]
         },
